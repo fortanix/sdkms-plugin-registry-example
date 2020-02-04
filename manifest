@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Plugin 1", 
+        "versions": {
+            "2.0": {
+                "path": "plugin_1/plugin.lua", 
+                "description": "This is version 2.0 of plugin 1\nDescription: This is version 2.0 of plugin 1", 
+                "commit": "873127761007bf5255c9972cf96bb944a1c4c38a"
+            }, 
+            "1.0": {
+                "path": "plugin_1/plugin.lua", 
+                "description": "This is version 1.0 of plugin 1\nDescription: This is version 1.0 of plugin 1", 
+                "commit": "a12cbfd5b508b40570a5fe7789eb604c3d7ecc90"
+            }
+        }
+    }, 
+    {
+        "name": "Plugin 2", 
+        "versions": {
+            "1.0": {
+                "path": "plugin_2/plugin.lua", 
+                "description": "This is plugin 2\nDescription: This is plugin 2", 
+                "commit": "873127761007bf5255c9972cf96bb944a1c4c38a"
+            }
+        }
+    }
+]
